@@ -11,4 +11,38 @@ Before diving into the world of YouTube video downloading, make sure you have Tk
 
 ```bash
 pip install tk
+```
 
+##Threading for Seamless User Experience
+For a smooth user experience without freezing the GUI, we've implemented threading. Ensure you have the threading module installed:
+
+```bash
+pip install threading
+```
+
+##Custom Tkinter Modules
+This project introduces custom Tkinter modules that enhance the overall aesthetics and functionality of the application. These modules are specifically crafted to provide an engaging user interface. To install them, use:
+
+```bash
+pip install customtkinter
+```
+
+🎥 How to Use
+Clone this repository to your local machine.
+Run the application using the following command:
+```bash
+python youtube_downloader.py
+```
+
+Enter the YouTube video URL you want to download.
+Click the "Download" button and watch the magic happen!
+🚧 Disclaimer
+Please note that downloading videos from YouTube may violate its terms of service. Use this application responsibly and consider the content creators' rights.
+
+🙌 Contribution
+Feel free to contribute to this project by submitting issues or pull requests. Your feedback and ideas are highly valued!
+
+📝 License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Happy coding and video downloading! 🌟
