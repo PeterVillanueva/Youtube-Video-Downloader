@@ -31,7 +31,7 @@ pip install customtkinter
 Clone this repository to your local machine.
 Run the application using the following command:
 ```bash
-python youtube_downloader.py
+python YoutubeDownloader.py
 ```
 
 Enter the YouTube video URL you want to download.
