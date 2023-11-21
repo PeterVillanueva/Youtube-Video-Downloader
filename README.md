@@ -13,23 +13,36 @@ Before diving into the world of YouTube video downloading, make sure you have Tk
 pip install tk
 ```
 
-##Threading for Seamless User Experience
+## 2. Threading for Seamless User Experience
 For a smooth user experience without freezing the GUI, we've implemented threading. Ensure you have the threading module installed:
 
 ```bash
 pip install threading
 ```
 
-##Custom Tkinter Modules
+## 3. Custom Tkinter Modules
 This project introduces custom Tkinter modules that enhance the overall aesthetics and functionality of the application. These modules are specifically crafted to provide an engaging user interface. To install them, use:
 
 ```bash
 pip install customtkinter
 ```
 
+## 4. Install Pytube and YouTube Modules
+To handle YouTube video downloading functionality, we'll use the pytube library. Install it with the following command:
+
+```bash
+pip install pytube
+```
+Additionally, install the youtube module for enhanced features and compatibility:
+
+```bash
+pip install youtube
+```
+
 🎥 How to Use
 Clone this repository to your local machine.
 Run the application using the following command:
+
 ```bash
 python YoutubeDownloader.py
 ```
