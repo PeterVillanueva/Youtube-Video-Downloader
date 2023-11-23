@@ -49,6 +49,13 @@ python YoutubeDownloader.py
 
 Enter the YouTube video URL you want to download.
 Click the "Download" button and watch the magic happen!
+
+🚀 Using the Executable (EXE) File
+If you prefer not to run the Python script directly, you can use the provided executable file. Follow these steps:
+
+Download the executable file (youtube_downloader.exe) to your local machine.
+Double-click on the executable file to launch the YouTube Video Downloader application.
+
 🚧 Disclaimer
 Please note that downloading videos from YouTube may violate its terms of service. Use this application responsibly and consider the content creators' rights.
 
