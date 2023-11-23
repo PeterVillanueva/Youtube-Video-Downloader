@@ -39,7 +39,7 @@ Additionally, install the youtube module for enhanced features and compatibility
 pip install youtube
 ```
 
-🎥 How to Use
+## 🎥 How to Use
 Clone this repository to your local machine.
 Run the application using the following command:
 
@@ -50,19 +50,19 @@ python YoutubeDownloader.py
 Enter the YouTube video URL you want to download.
 Click the "Download" button and watch the magic happen!
 
-🚀 Using the Executable (EXE) File
+## 🚀 Using the Executable (EXE) File
 If you prefer not to run the Python script directly, you can use the provided executable file. Follow these steps:
 
 Download the executable file (youtube_downloader.exe) to your local machine.
 Double-click on the executable file to launch the YouTube Video Downloader application.
 
-🚧 Disclaimer
+## 🚧 Disclaimer
 Please note that downloading videos from YouTube may violate its terms of service. Use this application responsibly and consider the content creators' rights.
 
-🙌 Contribution
+## 🙌 Contribution
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and ideas are highly valued!
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Happy coding and video downloading! 🌟
